@@ -1,0 +1,16 @@
+Версия sqlite: 3.36.0
+Режимы вывода:
+ascii 
+box 
+column 
+csv 
+html 
+insert 
+json 
+line 
+list 
+markdown 
+quote 
+table 
+tabs 
+tcl
